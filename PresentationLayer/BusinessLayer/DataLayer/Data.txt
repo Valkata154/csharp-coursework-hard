@@ -1,0 +1,26 @@
+Staff Member - ID: 1 FirstName: James Surname: Henry Address: 21 Accia Road Edinburgh Category: General Practitioner BaseLocationLat: 55.932221  BaseLocationLon: -3.214164
+
+Staff Member - ID: 2 FirstName: Sally Surname: Wilson Address: 21 Accia Road Edinburgh Category: General Practitioner BaseLocationLat: 55.932221  BaseLocationLon: -3.214164
+
+Staff Member - ID: 3 FirstName: Roland Surname: Smith Address: 21 Accia Road Edinburgh Category: Social Worker BaseLocationLat: 55.932221  BaseLocationLon: -3.214164
+
+Staff Member - ID: 4 FirstName: Mary Surname: Jones Address: 21 Accia Road Edinburgh Category: Social Worker BaseLocationLat: 55.932221  BaseLocationLon: -3.214164
+
+Staff Member - ID: 5 FirstName: Phillip Surname: Jones Address: 21 Accia Road Edinburgh Category: Community Nurse BaseLocationLat: 55.932221  BaseLocationLon: -3.214164
+
+Staff Member - ID: 6 FirstName: Martha Surname: Rigg Address: 21 Accia Road Edinburgh Category: Community Nurse BaseLocationLat: 55.932221  BaseLocationLon: -3.214164
+
+Staff Member - ID: 7 FirstName: Mike Surname: Heathcoat Address: 21 Accia Road Edinburgh Category: Care Worker BaseLocationLat: 55.932221  BaseLocationLon: -3.214164
+
+Staff Member - ID: 8 FirstName: Jo Surname: Shaw Address: 21 Accia Road Edinburgh Category: Care Worker BaseLocationLat: 55.932221  BaseLocationLon: -3.214164
+
+Client - ID: 1 FirstName: Claire Surname: Wentworth Address: 1 Low Rd Edinburgh LocationLat: 55.937894  LocationLon: -3.194088
+
+Client - ID: 2 FirstName: Douglas Surname: Brown Address: 2 Mid Rd Edinburgh LocationLat: 55.932317  LocationLon: -3.192716
+
+Client - ID: 3 FirstName: Jimmy Surname: Green Address: 31 High Rd Edinburgh LocationLat: 55.942605  LocationLon: -3.180533
+
+ClientID- 1 Staff- 1 3 Type- 0 Date- 01/01/2020 09:00:00
+
+ClientID- 2 Staff- 7 8 Type- 2 Date- 01/01/2020 18:00:00
+

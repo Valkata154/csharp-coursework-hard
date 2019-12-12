@@ -1,0 +1,18 @@
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\DataLayer\obj\Debug\DataLayer.pdb

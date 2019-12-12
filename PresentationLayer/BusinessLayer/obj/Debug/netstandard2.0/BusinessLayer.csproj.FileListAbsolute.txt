@@ -1,0 +1,60 @@
+d:\cw2\PresentationLayer\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.deps.json
+d:\cw2\PresentationLayer\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.dll
+d:\cw2\PresentationLayer\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.pdb
+d:\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csprojAssemblyReference.cache
+d:\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csproj.CoreCompileInputs.cache
+d:\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfoInputs.cache
+d:\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfo.cs
+d:\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.dll
+d:\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.pdb
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.deps.json
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.pdb
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csprojAssemblyReference.cache
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csproj.CoreCompileInputs.cache
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfoInputs.cache
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfo.cs
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.pdb
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.deps.json
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.pdb
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.pdb
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\BusinessLayer\bin\Debug\netstandard2.0\DataLayer.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\BusinessLayer\bin\Debug\netstandard2.0\DataLayer.pdb
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csproj.CopyComplete
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.deps.json
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.pdb
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\BusinessLayer\bin\Debug\netstandard2.0\DataLayer.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\BusinessLayer\bin\Debug\netstandard2.0\DataLayer.pdb
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csproj.CopyComplete
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.pdb
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.deps.json
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.pdb
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.pdb
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.deps.json
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.pdb
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.pdb

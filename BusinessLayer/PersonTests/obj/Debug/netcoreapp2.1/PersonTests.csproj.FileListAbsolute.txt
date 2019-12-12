@@ -1,0 +1,53 @@
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\BusinessLayer\PersonTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\BusinessLayer\PersonTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\BusinessLayer\PersonTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\BusinessLayer\PersonTests\bin\Debug\netcoreapp2.1\PersonTests.deps.json
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\BusinessLayer\PersonTests\bin\Debug\netcoreapp2.1\PersonTests.runtimeconfig.json
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\BusinessLayer\PersonTests\bin\Debug\netcoreapp2.1\PersonTests.runtimeconfig.dev.json
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\BusinessLayer\PersonTests\bin\Debug\netcoreapp2.1\PersonTests.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\BusinessLayer\PersonTests\bin\Debug\netcoreapp2.1\PersonTests.pdb
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\BusinessLayer\PersonTests\bin\Debug\netcoreapp2.1\BusinessLayer.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\BusinessLayer\PersonTests\bin\Debug\netcoreapp2.1\BusinessLayer.pdb
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\BusinessLayer\PersonTests\obj\Debug\netcoreapp2.1\PersonTests.csprojAssemblyReference.cache
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\BusinessLayer\PersonTests\obj\Debug\netcoreapp2.1\PersonTests.csproj.CoreCompileInputs.cache
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\BusinessLayer\PersonTests\obj\Debug\netcoreapp2.1\PersonTests.AssemblyInfoInputs.cache
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\BusinessLayer\PersonTests\obj\Debug\netcoreapp2.1\PersonTests.AssemblyInfo.cs
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\BusinessLayer\PersonTests\obj\Debug\netcoreapp2.1\PersonTests.csproj.CopyComplete
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\BusinessLayer\PersonTests\obj\Debug\netcoreapp2.1\PersonTests.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\BusinessLayer\PersonTests\obj\Debug\netcoreapp2.1\PersonTests.pdb
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\BusinessLayer\PersonTests\bin\Debug\netcoreapp2.1\DataLayer.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\BusinessLayer\PersonTests\bin\Debug\netcoreapp2.1\DataLayer.pdb
+C:\Users\valka\OneDrive\Работен плот\final\cw2\BusinessLayer\PersonTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\BusinessLayer\PersonTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\BusinessLayer\PersonTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\BusinessLayer\PersonTests\bin\Debug\netcoreapp2.1\PersonTests.deps.json
+C:\Users\valka\OneDrive\Работен плот\final\cw2\BusinessLayer\PersonTests\bin\Debug\netcoreapp2.1\PersonTests.runtimeconfig.json
+C:\Users\valka\OneDrive\Работен плот\final\cw2\BusinessLayer\PersonTests\bin\Debug\netcoreapp2.1\PersonTests.runtimeconfig.dev.json
+C:\Users\valka\OneDrive\Работен плот\final\cw2\BusinessLayer\PersonTests\bin\Debug\netcoreapp2.1\PersonTests.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\BusinessLayer\PersonTests\bin\Debug\netcoreapp2.1\PersonTests.pdb
+C:\Users\valka\OneDrive\Работен плот\final\cw2\BusinessLayer\PersonTests\bin\Debug\netcoreapp2.1\BusinessLayer.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\BusinessLayer\PersonTests\bin\Debug\netcoreapp2.1\BusinessLayer.pdb
+C:\Users\valka\OneDrive\Работен плот\final\cw2\BusinessLayer\PersonTests\obj\Debug\netcoreapp2.1\PersonTests.csprojAssemblyReference.cache
+C:\Users\valka\OneDrive\Работен плот\final\cw2\BusinessLayer\PersonTests\obj\Debug\netcoreapp2.1\PersonTests.csproj.CoreCompileInputs.cache
+C:\Users\valka\OneDrive\Работен плот\final\cw2\BusinessLayer\PersonTests\obj\Debug\netcoreapp2.1\PersonTests.AssemblyInfoInputs.cache
+C:\Users\valka\OneDrive\Работен плот\final\cw2\BusinessLayer\PersonTests\obj\Debug\netcoreapp2.1\PersonTests.AssemblyInfo.cs
+C:\Users\valka\OneDrive\Работен плот\final\cw2\BusinessLayer\PersonTests\obj\Debug\netcoreapp2.1\PersonTests.csproj.CopyComplete
+C:\Users\valka\OneDrive\Работен плот\final\cw2\BusinessLayer\PersonTests\obj\Debug\netcoreapp2.1\PersonTests.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\BusinessLayer\PersonTests\obj\Debug\netcoreapp2.1\PersonTests.pdb
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\BusinessLayer\PersonTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\BusinessLayer\PersonTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\BusinessLayer\PersonTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\BusinessLayer\PersonTests\bin\Debug\netcoreapp2.1\PersonTests.deps.json
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\BusinessLayer\PersonTests\bin\Debug\netcoreapp2.1\PersonTests.runtimeconfig.json
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\BusinessLayer\PersonTests\bin\Debug\netcoreapp2.1\PersonTests.runtimeconfig.dev.json
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\BusinessLayer\PersonTests\bin\Debug\netcoreapp2.1\PersonTests.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\BusinessLayer\PersonTests\bin\Debug\netcoreapp2.1\PersonTests.pdb
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\BusinessLayer\PersonTests\bin\Debug\netcoreapp2.1\BusinessLayer.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\BusinessLayer\PersonTests\bin\Debug\netcoreapp2.1\BusinessLayer.pdb
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\BusinessLayer\PersonTests\obj\Debug\netcoreapp2.1\PersonTests.csprojAssemblyReference.cache
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\BusinessLayer\PersonTests\obj\Debug\netcoreapp2.1\PersonTests.csproj.CoreCompileInputs.cache
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\BusinessLayer\PersonTests\obj\Debug\netcoreapp2.1\PersonTests.AssemblyInfoInputs.cache
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\BusinessLayer\PersonTests\obj\Debug\netcoreapp2.1\PersonTests.AssemblyInfo.cs
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\BusinessLayer\PersonTests\obj\Debug\netcoreapp2.1\PersonTests.csproj.CopyComplete
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\BusinessLayer\PersonTests\obj\Debug\netcoreapp2.1\PersonTests.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\BusinessLayer\PersonTests\obj\Debug\netcoreapp2.1\PersonTests.pdb

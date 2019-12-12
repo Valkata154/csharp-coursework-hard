@@ -1,0 +1,694 @@
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.exe
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.pdb
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\Microsoft.Win32.Primitives.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\netstandard.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.AppContext.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Collections.Concurrent.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Collections.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Collections.NonGeneric.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Collections.Specialized.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.ComponentModel.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.ComponentModel.Primitives.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.ComponentModel.TypeConverter.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Console.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Data.Common.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.Contracts.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.Debug.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.Process.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.StackTrace.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.Tools.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.TraceSource.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.Tracing.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Drawing.Primitives.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Dynamic.Runtime.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Globalization.Calendars.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Globalization.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Globalization.Extensions.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.Compression.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.Compression.ZipFile.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.FileSystem.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.FileSystem.Primitives.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.FileSystem.Watcher.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.IsolatedStorage.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.MemoryMappedFiles.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.Pipes.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Linq.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Linq.Expressions.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Linq.Parallel.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Linq.Queryable.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.Http.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.NameResolution.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.NetworkInformation.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.Ping.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.Primitives.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.Requests.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.Security.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.Sockets.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.WebHeaderCollection.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.WebSockets.Client.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.WebSockets.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.ObjectModel.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Reflection.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Reflection.Extensions.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Reflection.Primitives.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Resources.Reader.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Resources.ResourceManager.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Resources.Writer.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Extensions.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Handles.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.InteropServices.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Numerics.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Serialization.Json.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Serialization.Xml.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Claims.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Cryptography.Csp.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Cryptography.Encoding.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Cryptography.Primitives.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Principal.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.SecureString.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Text.Encoding.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Text.Encoding.Extensions.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Text.RegularExpressions.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.Overlapped.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.Tasks.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.Tasks.Parallel.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.Thread.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.ThreadPool.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.Timer.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.ValueTuple.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Xml.ReaderWriter.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Xml.XDocument.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Xml.XmlDocument.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Xml.XmlSerializer.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Xml.XPath.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Xml.XPath.XDocument.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\BusinessLayer.dll
+d:\cw2\PresentationLayer\PresentationLayer\bin\Debug\BusinessLayer.pdb
+d:\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+d:\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.exe.config
+d:\cw2\PresentationLayer\PresentationLayer\obj\Debug\MainWindow.g.cs
+d:\cw2\PresentationLayer\PresentationLayer\obj\Debug\App.g.cs
+d:\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.cache
+d:\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.lref
+d:\cw2\PresentationLayer\PresentationLayer\obj\Debug\MainWindow.baml
+d:\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.g.resources
+d:\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+d:\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+d:\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+d:\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+d:\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.exe
+d:\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.pdb
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.exe
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.pdb
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\Microsoft.Win32.Primitives.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\netstandard.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.AppContext.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Collections.Concurrent.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Collections.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Collections.NonGeneric.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Collections.Specialized.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.ComponentModel.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.ComponentModel.Primitives.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.ComponentModel.TypeConverter.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Console.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Data.Common.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.Contracts.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.Debug.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.Process.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.StackTrace.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.Tools.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.TraceSource.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.Tracing.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Drawing.Primitives.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Dynamic.Runtime.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Globalization.Calendars.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Globalization.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Globalization.Extensions.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.Compression.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.Compression.ZipFile.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.FileSystem.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.FileSystem.Primitives.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.FileSystem.Watcher.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.IsolatedStorage.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.MemoryMappedFiles.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.Pipes.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Linq.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Linq.Expressions.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Linq.Parallel.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Linq.Queryable.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.Http.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.NameResolution.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.NetworkInformation.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.Ping.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.Primitives.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.Requests.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.Security.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.Sockets.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.WebHeaderCollection.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.WebSockets.Client.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.WebSockets.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.ObjectModel.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Reflection.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Reflection.Extensions.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Reflection.Primitives.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Resources.Reader.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Resources.ResourceManager.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Resources.Writer.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Extensions.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Handles.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.InteropServices.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Numerics.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Serialization.Json.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Serialization.Xml.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Claims.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Cryptography.Csp.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Cryptography.Encoding.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Cryptography.Primitives.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Principal.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.SecureString.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Text.Encoding.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Text.Encoding.Extensions.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Text.RegularExpressions.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.Overlapped.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.Tasks.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.Tasks.Parallel.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.Thread.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.ThreadPool.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.Timer.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.ValueTuple.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Xml.ReaderWriter.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Xml.XDocument.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Xml.XmlDocument.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Xml.XmlSerializer.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Xml.XPath.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Xml.XPath.XDocument.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\BusinessLayer.dll
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\BusinessLayer.pdb
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.exe.config
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\obj\Debug\MainWindow.g.cs
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\obj\Debug\App.g.cs
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.cache
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.lref
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\obj\Debug\MainWindow.baml
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.g.resources
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.exe
+H:\teaching\OOSD\coursework1920\cw2\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\netstandard.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.AppContext.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Collections.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Collections.Specialized.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.ComponentModel.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Console.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Data.Common.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Globalization.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.Compression.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.FileSystem.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.Pipes.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Linq.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Linq.Expressions.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Linq.Parallel.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Linq.Queryable.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.Http.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.NameResolution.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.Ping.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.Primitives.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.Requests.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.Security.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.Sockets.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.WebSockets.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.ObjectModel.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Reflection.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Resources.Reader.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Resources.Writer.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Handles.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Claims.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Principal.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.SecureString.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Text.Encoding.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.Tasks.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.Thread.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.Timer.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.ValueTuple.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Xml.XDocument.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Xml.XPath.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.exe.config
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\obj\Debug\MainWindow.g.cs
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\obj\Debug\App.g.cs
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.cache
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.lref
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\obj\Debug\MainWindow.baml
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.g.resources
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\DataLayer.dll
+C:\Users\valka\OneDrive\Работен плот\cw2\cw2\PresentationLayer\PresentationLayer\bin\Debug\DataLayer.pdb
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\netstandard.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.AppContext.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Collections.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Collections.Specialized.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.ComponentModel.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Console.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Data.Common.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Globalization.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.Compression.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.FileSystem.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.Pipes.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Linq.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Linq.Expressions.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Linq.Parallel.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Linq.Queryable.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.Http.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.NameResolution.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.Ping.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.Primitives.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.Requests.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.Security.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.Sockets.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.WebSockets.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.ObjectModel.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Reflection.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Resources.Reader.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Resources.Writer.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Handles.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Claims.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Principal.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.SecureString.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Text.Encoding.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.Tasks.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.Thread.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.Timer.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.ValueTuple.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Xml.XDocument.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Xml.XPath.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\DataLayer.dll
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\bin\Debug\DataLayer.pdb
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.exe.config
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\obj\Debug\MainWindow.g.cs
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\obj\Debug\App.g.cs
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.cache
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.lref
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\obj\Debug\MainWindow.baml
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.g.resources
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\valka\OneDrive\Работен плот\cw2 - Copy (2)\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\netstandard.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.AppContext.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Collections.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Collections.Specialized.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.ComponentModel.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Console.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Data.Common.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Globalization.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.Compression.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.FileSystem.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.Pipes.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Linq.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Linq.Expressions.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Linq.Parallel.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Linq.Queryable.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.Http.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.NameResolution.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.Ping.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.Primitives.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.Requests.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.Security.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.Sockets.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.WebSockets.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.ObjectModel.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Reflection.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Resources.Reader.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Resources.Writer.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Handles.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Claims.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Principal.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.SecureString.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Text.Encoding.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.Tasks.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.Thread.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.Timer.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.ValueTuple.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Xml.XDocument.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Xml.XPath.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.exe.config
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\obj\Debug\MainWindow.g.cs
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\obj\Debug\App.g.cs
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.cache
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.lref
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\obj\Debug\MainWindow.baml
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.g.resources
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\valka\OneDrive\Работен плот\final\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\netstandard.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.AppContext.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Collections.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Collections.Specialized.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.ComponentModel.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Console.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Data.Common.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Globalization.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.Compression.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.FileSystem.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.Pipes.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Linq.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Linq.Expressions.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Linq.Parallel.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Linq.Queryable.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.Http.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.NameResolution.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.Ping.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.Primitives.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.Requests.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.Security.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.Sockets.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Net.WebSockets.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.ObjectModel.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Reflection.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Resources.Reader.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Resources.Writer.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Handles.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Claims.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.Principal.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Security.SecureString.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Text.Encoding.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.Tasks.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.Thread.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Threading.Timer.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.ValueTuple.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Xml.XDocument.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Xml.XPath.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.exe.config
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\obj\Debug\MainWindow.g.cs
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\obj\Debug\App.g.cs
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.cache
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.lref
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\obj\Debug\MainWindow.baml
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.g.resources
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\valka\OneDrive\Работен плот\Coursework Sharp 2\40399682\cw2\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.pdb
